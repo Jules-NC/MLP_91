@@ -1,2 +1,3 @@
+__pycache__/*
 .idx3-ubyte
-/mnist
+/mnist/*
